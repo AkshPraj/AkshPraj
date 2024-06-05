@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit</h1>
+<h1 align="center">Hi 👋, I'm Ankit (He/Him/His)</h1>
 <h3 >I’m interested in Data Analysis,Data Visualization </h3>  
 <h3>🌱 I’m currently learning Python, SQL, MySql, Excel, Statistics, Power BI,Power Point</h3>
 
