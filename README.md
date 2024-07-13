@@ -1,10 +1,16 @@
-<h1 align="center">Hi 👋, I'm Ankit (He/Him/His)</h1>
-<h3 >I’m interested in Data Analysis,Data Visualization </h3>  
-<h3>🌱 I’m currently learning Python, SQL, MySql, Excel, Statistics, Power BI,Power Point</h3>
+<h2>Hi 👋, I'm Ankit</h2>
 
-- 🌱 I’m currently learning **Python**
+**A passionate Data Analyst.**
+##### Explore curated data analysis projects demonstrating my skills in extracting insights and making data-driven decisions.
 
-- 📫 How to reach me **prajapanktp@gmail.com**
+
+### Skills:
+#### SQL💻    Advanced Excel📈    Power Bi📊  
+
+ 🌱 I’m currently learning **Python**
+
+### Contact:
+Reach out to me via email at prajapanktp@gmail.com 📧
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
