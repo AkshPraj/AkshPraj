@@ -1,4 +1,4 @@
-### Hi 👋, I'm Ankit
+### Hi 👋, I'm Aksh
 
 🔍 **Data Analyst | Passionate about transforming data into actionable insights**
 
